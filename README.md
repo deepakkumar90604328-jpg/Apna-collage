@@ -1,40 +1,47 @@
-# 📊 Power BI Sales Dashboard
+📊 🔍 Key Insights from your Dashboard<img width="653" height="359" alt="{6AB00E4A-8A02-4611-AF34-FE51060AD128}" src="https://github.com/user-attachments/assets/555a7bd0-8646-40f7-a6c8-7e91e70f1f00" />
 
-## 📌 Project Overview
-This project is an interactive Sales Dashboard created using Power BI to analyze sales performance.
-
-## 🚀 Features
-- Sales by Category
-- Sales by City
-- Monthly Sales Trend
-- Top Products
-- Interactive Filters (City, Category, Date)
-
-## 🛠️ Tools Used
-- Power BI
-- Excel / CSV
-
-## 📂 Dataset
-- OrderID
-- OrderDate
-- CustomerName
-- Product
-- Category
-- Quantity
-- Price
-- City
-- TotalPrice
-
-## 📊 Insights
-- Top selling category
-- City-wise sales performance
-- Monthly growth trend
-- Best selling products
-
-## 👥 Team Members
-1. Deepak Kumar  
-2. Deelip Kumar 
-3. Biku Kumar 
-## 📸 Dashboard Preview
-(Add <img width="506" height="290" alt="{49FAD9C1-1D33-415A-8290-754F1F1FCB3D}" src="https://github.com/user-attachments/assets/a1298104-de11-4480-8285-cafbf148a93d" /><img width="638" height="523" alt="{BA4E413A-2FD5-430A-8E0D-F56B25A4DA2E}" src="https://github.com/user-attachments/assets/f7c5771f-2b02-4a21-89ba-35347b701d27" />
- here)
+1. 💰 Total Sales Performance
+Total revenue ≈ ₹120K 👉 Business ka overall performance moderate hai (not very high, not very low)
+2. 🏆 Top Performing Products
+From table:
+Laptop & Mobile = ₹40,000 (highest)
+Sofa = ₹15,000
+👉 Insight:
+Electronics products sabse zyada revenue generate kar rahe hain
+Business ko electronics pe focus karna chahiye
+3. 📉 Low Performing Products
+Jeans, Jacket, T-shirt = lowest sales (~₹2K–₹3K)
+👉 Insight:
+Clothing category weak perform kar rahi hai
+Ya to demand kam hai ya pricing/marketing issue hai
+4. 🏙️ City-wise Sales Analysis
+Line chart ke hisaab se:
+Delhi ≈ ₹49K (highest)
+Bangalore ≈ ₹43K
+Chennai → Mumbai → Kolkata (declining trend)
+👉 Insight:
+North India (Delhi) strong market hai
+Kolkata sabse weak city hai → improvement needed
+5. 📦 Category-wise Performance
+Bar chart:
+Electronics > Clothing > Furniture
+👉 Insight:
+Electronics dominates
+Furniture mid-level
+Clothing lowest → improvement area
+6. 📉 Trend Insight
+City chart me:
+Sharp drop from Bangalore → Chennai
+👉 Insight:
+Regional demand gap hai
+South India me marketing ya distribution improve karna hoga
+7. 📊 Average Sales Insight
+Avg TotalPrice ≈ 9.17K
+👉 Insight:
+Average order value decent hai
+High-value products (Laptop, Mobile) isko boost kar rahe hain
+## Team Members
+1. Deepak kumar
+2. Deelip kumar
+3. Biku Kumar
+## Dashboard preview
